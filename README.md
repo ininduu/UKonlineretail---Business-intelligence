@@ -1,5 +1,5 @@
-1. Project Title
-Online Retail Sales Analysis for Business Intelligence
+                                                                  1. Project Title
+                                                Online Retail Sales Analysis for Business Intelligence
 
 2. Introduction
 This project aims to analyze online retail sales data to extract meaningful insights that can support business decision-making. The dataset used in this project contains transaction records of a UK-based online retailer
